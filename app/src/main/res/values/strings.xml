@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ambulance</string>
+    <string name="speech_prompt">Speak Now</string>
+    <string name="speech_not_supported">Speech not supported</string>
 </resources>
